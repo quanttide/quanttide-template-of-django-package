@@ -31,14 +31,12 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    # official packages
+    # official
     'django.contrib.contenttypes',
     'django.contrib.staticfiles',
-    # community packages
+    # community
     'rest_framework',
-    # internal apps
-    'drf_admin',
-    'courses',
+    # user
 ]
 
 MIDDLEWARE = [
