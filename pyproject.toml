@@ -4,13 +4,13 @@ build-backend = "setuptools.build_meta"
 
 [project]
 # name it as your package name
-name = "django-package-template"
+name = "quanttide-template-of-django-package"
 # semetric versions
 version = "0.1.0-alpha.1"
 # describe the package within one sentence
-description = "Django Package Template"
+description = "量潮Django包模板"
 authors = [{name = "QuantTide Inc.", email = "opensource@quanttide.com"}]
-license = {text = "BSD 3-Clause License"}
+license = {text = "Apache 2.0 License"}
 classifiers = [
     "Programming Language :: Python :: 3",
     "Framework :: Django",
